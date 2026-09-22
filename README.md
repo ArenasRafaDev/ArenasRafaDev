@@ -75,9 +75,9 @@ Check my pinned repos for the latest state of each — most of these are under a
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArenasRafaDev&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
