@@ -76,11 +76,6 @@ Check my pinned repos for the latest state of each — most of these are under a
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArenasRafaDev&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasRafaDev&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArenasRafaDev&hide_border=true" alt="GitHub Streak" />
 </p>
 
